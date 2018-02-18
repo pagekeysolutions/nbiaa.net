@@ -1,0 +1,6 @@
+span#backlink {
+  font-size: 80%;
+  margin-left: 0.5em;
+  padding-left: 1em;
+  border-left: 1px solid gray;
+}
