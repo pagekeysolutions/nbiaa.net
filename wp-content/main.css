@@ -4,3 +4,15 @@ span#backlink {
   padding-left: 1em;
   border-left: 1px solid gray;
 }
+@media screen and (max-width: 425px) {
+  h1 {
+    font-size: 2.2rem !important;
+  }
+  span#backlink {
+    font-size: 80%;
+    border:none;
+    margin-left:inherit;
+    padding-left:inherit;
+    display: block;
+  }
+}
