@@ -16,3 +16,7 @@ span#backlink {
     display: block;
   }
 }
+hr {
+	border-top: 1px solid black;
+	padding: 1em;
+}
